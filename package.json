@@ -1,0 +1,23 @@
+{
+  "name": "scrumtastic-reaganwood1",
+  "version": "1.0.0",
+  "description": "An app to manage SCRUm",
+  "main": "app.js",
+  "dependencies": {
+    "sqlite3": "3.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S17cis526/scrumtastic-reaganwood1.git"
+  },
+  "author": "Reagan Wood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S17cis526/scrumtastic-reaganwood1/issues"
+  },
+  "homepage": "https://github.com/S17cis526/scrumtastic-reaganwood1#readme"
+}
